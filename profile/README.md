@@ -1,3 +1,5 @@
+<a href="https://shazmoghaddam.github.io"><img src="assets/banner.png" alt="Shaz Moghaddam. Data scientist building B2B data platforms in Python. London, UK. shazmoghaddam.github.io, linkedin.com/in/shazmoghaddam" width="100%"></a>
+
 # Moghaddam Labs
 
 Commercial data and AI products for UK businesses, built in London by [Shaz Moghaddam](https://shazmoghaddam.github.io).
