@@ -1,4 +1,4 @@
-<a href="https://shazmoghaddam.github.io"><img src="assets/banner.png" alt="Shaz Moghaddam. Data scientist building B2B data platforms in Python. London, UK. shazmoghaddam.github.io, linkedin.com/in/shazmoghaddam" width="100%"></a>
+<a href="https://shazmoghaddam.github.io"><img src="assets/moghaddam-labs-banner.png" alt="Moghaddam Labs, by Shaz Moghaddam. Data scientist building B2B data platforms in Python. London, UK. shazmoghaddam.github.io, linkedin.com/in/shazmoghaddam" width="100%"></a>
 
 # Moghaddam Labs
 
